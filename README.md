@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Alexander Haislip" src="https://github.com/user-attachments/assets/91e39f22-26b6-46ed-bfb8-a8e76bca2617" />
+![free-photo-of-scenic-view-of-a-mountain-range](https://github.com/user-attachments/assets/703face6-eef4-411f-a3b8-c92fc7290250)
+
 
 <!--
 **alexnaughtonjr/alexnaughtonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
